@@ -16,24 +16,27 @@ Los requerimientos basicos son tener instalado python 3.
 
 ```bash
 $ sudo dnf group install 'Python Science' 'Python Classroom'
+$ jupyter-notebook
 ```
 
 ### Ubuntu 17.04 o superior.
 
-```$ sudo apt install jupyter-notebook jupyter-core python-ipykernel ```
+```bash
+$ sudo apt install jupyter-notebook jupyter-core python-ipykernel 
+$ jupyter notebook
+```
 
 ### Debian, Ubuntu 16.04 o anteriores
 ```bash
 $ sudo apt-get install python-pip
 $ pip install --upgrade pip 
 $ sudo pip install jupyter
+$ jupyter notebook
 ```
 
 ###  ArchLinux
 
 ```bash
 $ sudo pacman -Sy jupyter-notebook jupyter-nbconvert python-ipywidgets
+$ jupyter notebook
 ```
-
-## Test
-
