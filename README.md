@@ -1,4 +1,7 @@
 # OpenDataDay Workshop UAM AZC (CDMX México)
+
+![Open Data Day Mexico City (UAM AZC)](./images/ODDlogoCDMX.png)
+
 This repository has the open data day workshop content for the UAM AZC
 
 At this time we design one Demo and three different exercises for the workshop.
@@ -7,15 +10,13 @@ At this time we design one Demo and three different exercises for the workshop.
 
 The prerequisites are listed [here](Prerrequisitos.md)
 
-## Demo
-
-
 ## Exercises
 
 
 ## Data sources
 * [datos.gob.mx](https://datos.gob.mx/)
 * [datamx](http://datamx.io/)
+* [Sitio del Secretariado Ejecutivo]()
 
 ## Geographical data and maps
 
