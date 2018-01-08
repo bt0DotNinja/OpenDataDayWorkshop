@@ -1,4 +1,4 @@
-# OpenDataDayWorkshop UAM AZC (CDMX México)
+# OpenDataDay Workshop UAM AZC (CDMX México)
 This repository has the open data day workshop content for the UAM AZC
 
 At this time we design one Demo and three different exercises for the workshop.
