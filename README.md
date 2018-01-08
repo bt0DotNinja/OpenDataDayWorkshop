@@ -1,6 +1,9 @@
 # OpenDataDay Workshop UAM AZC (CDMX México)
 
+<p align="center">
 ![Open Data Day Mexico City (UAM AZC)](./images/ODDlogoCDMX.png)
+</p>
+
 
 This repository has the open data day workshop content for the UAM AZC
 
