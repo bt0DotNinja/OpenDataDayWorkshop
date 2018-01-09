@@ -32,7 +32,11 @@ you can take this workshop. :smile:
 > send me a email: bt0dotninja AT fedoraproject DOT org 
 > just change AT for @ and DOT for .
 
-## 
+## Workshop
+
+To follow this workshop (easy to follow) step-by-step visit [Azcapotzalco.ipynb](Azcapotzalco.ipynb) 
+
+To review the technical part visit [scripts](scripts/README.md)
 
 
 ## Data sources
