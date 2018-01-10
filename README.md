@@ -11,7 +11,7 @@
 This repository has the open data day workshop content for the UAM AZC
 
 The main theme of this workshop is analyzing the crime issues around our university.
-The data sources are open data from goverment and citizens. 
+The data sources are open data from government and citizens. 
 
 ## Prerequisites
 
