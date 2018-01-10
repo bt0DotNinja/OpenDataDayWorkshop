@@ -25,7 +25,7 @@ If you know how to:
 3. You are no afraid to learn new things.
 
 
-you can take this workshop. :smile:
+you can take this workshop also it is free. :smile:
 
 > Only the third is mandatory 
 > If you need some help installing the software before the workshop
