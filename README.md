@@ -44,6 +44,7 @@ To review the technical part visit [scripts](scripts/README.md)
 * [datamx](http://datamx.io/)
 * [Sitio del Secretariado Ejecutivo](http://secretariadoejecutivo.gob.mx/incidencia-delictiva/incidencia-delictiva-datos-abiertos.php)
 * [Sitio hoyodecrimen](https://hoyodecrimen.com/)
+* [Labotatorio para la ciudad](http://datos.labcd.mx/)
 
 ## Geographical data and maps
 
