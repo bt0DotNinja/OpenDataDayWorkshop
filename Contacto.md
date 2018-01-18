@@ -13,6 +13,4 @@ E-312, Maestría en Computación, los lunes y miercoles de 4:00 a 5:30pm.
 
 ## Si ademas te gusta GNU/Linux:
 
-considera unirte a nuestro Meetup:
-
-**[Soul Tlamaqui Meetup](https://www.meetup.com/Soul-Tlamaqui/)**
+Considera unirte a nuestro Meetup: **[Soul Tlamaqui Meetup](https://www.meetup.com/Soul-Tlamaqui/)**
