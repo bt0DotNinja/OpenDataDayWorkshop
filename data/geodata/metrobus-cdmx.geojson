@@ -1,0 +1,3225 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.169174,
+          19.279393
+        ]
+      },
+      "properties": {
+        "name": "El Caminero",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1701,
+          19.28036
+        ]
+      },
+      "properties": {
+        "name": "La Joya",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.175601,
+          19.283763
+        ]
+      },
+      "properties": {
+        "name": "Santa Úrsula",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.174458,
+          19.28838
+        ]
+      },
+      "properties": {
+        "name": "Fuentes Brotantes",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.177401,
+          19.292502
+        ]
+      },
+      "properties": {
+        "name": "Ayuntamiento",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.18125,
+          19.294145
+        ]
+      },
+      "properties": {
+        "name": "Corregidora",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.185509,
+          19.299403
+        ]
+      },
+      "properties": {
+        "name": "Villa Olímpica",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.186065,
+          19.304468
+        ]
+      },
+      "properties": {
+        "name": "Perisur",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.187409,
+          19.314616
+        ]
+      },
+      "properties": {
+        "name": "CCU",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.188427,
+          19.322797
+        ]
+      },
+      "properties": {
+        "name": "Ciudad Universitaria",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.189979,
+          19.340818
+        ]
+      },
+      "properties": {
+        "name": "Dr. Gálvez",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.187909,
+          19.346811
+        ]
+      },
+      "properties": {
+        "name": "Bombilla",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.186265,
+          19.351275
+        ]
+      },
+      "properties": {
+        "name": "Altavista",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.185269,
+          19.354716
+        ]
+      },
+      "properties": {
+        "name": "Olivo",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.184046,
+          19.35836
+        ]
+      },
+      "properties": {
+        "name": "Francia",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.182716,
+          19.361984
+        ]
+      },
+      "properties": {
+        "name": "José María Velasco",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.18175,
+          19.365011
+        ]
+      },
+      "properties": {
+        "name": "Teatro de los Insurgentes",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.180441,
+          19.36908
+        ]
+      },
+      "properties": {
+        "name": "Río Churubusco",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.178757,
+          19.374292
+        ]
+      },
+      "properties": {
+        "name": "Felix Cuevas",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.177287,
+          19.379322
+        ]
+      },
+      "properties": {
+        "name": "Parque Hundido",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.176043,
+          19.382601
+        ]
+      },
+      "properties": {
+        "name": "Ciudad de los Deportes",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.175281,
+          19.385506
+        ]
+      },
+      "properties": {
+        "name": "Colonia del Valle",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.173682,
+          19.389858
+        ]
+      },
+      "properties": {
+        "name": "Nápoles",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.172459,
+          19.393623
+        ]
+      },
+      "properties": {
+        "name": "Poliforum",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.171301,
+          19.397873
+        ]
+      },
+      "properties": {
+        "name": "La Piedad",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.169959,
+          19.40187
+        ]
+      },
+      "properties": {
+        "name": "Nuevo León",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1685,
+          19.406485
+        ]
+      },
+      "properties": {
+        "name": "Chilpancingo",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.167318,
+          19.409693
+        ]
+      },
+      "properties": {
+        "name": "Campeche",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.166245,
+          19.413143
+        ]
+      },
+      "properties": {
+        "name": "Sonora",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.164853,
+          19.416867
+        ]
+      },
+      "properties": {
+        "name": "Álvaro Obregón",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.164037,
+          19.419902
+        ]
+      },
+      "properties": {
+        "name": "Durango",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.163257,
+          19.424106
+        ]
+      },
+      "properties": {
+        "name": "Glorieta Insurgentes",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.162408,
+          19.423373
+        ]
+      },
+      "properties": {
+        "name": "Glorieta Insurgentes",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.161056,
+          19.427805
+        ]
+      },
+      "properties": {
+        "name": "Hamburgo",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.158803,
+          19.433066
+        ]
+      },
+      "properties": {
+        "name": "Reforma",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.157224,
+          19.436152
+        ]
+      },
+      "properties": {
+        "name": "Plaza de la República",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.15554,
+          19.440411
+        ]
+      },
+      "properties": {
+        "name": "Revolución",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.154596,
+          19.443102
+        ]
+      },
+      "properties": {
+        "name": "El Chopo",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.153029,
+          19.446957
+        ]
+      },
+      "properties": {
+        "name": "Buenavista",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.149156,
+          19.456881
+        ]
+      },
+      "properties": {
+        "name": "Manuel González",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.146515,
+          19.459663
+        ]
+      },
+      "properties": {
+        "name": "San Simón",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.144039,
+          19.462445
+        ]
+      },
+      "properties": {
+        "name": "Circuito",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.138803,
+          19.468838
+        ]
+      },
+      "properties": {
+        "name": "La Raza",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.132473,
+          19.476616
+        ]
+      },
+      "properties": {
+        "name": "Potrero",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.127741,
+          19.482473
+        ]
+      },
+      "properties": {
+        "name": "Euzkaro",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1245762,
+          19.4859431
+        ]
+      },
+      "properties": {
+        "name": "Deportivo 18 de Marzo",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.119725,
+          19.496784
+        ]
+      },
+      "properties": {
+        "name": "Indios Verdes",
+        "routes": ["Línea 1"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.186751,
+          19.40184
+        ]
+      },
+      "properties": {
+        "name": "Tacubaya",
+        "routes": ["Línea 2"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.189374,
+          19.407742
+        ]
+      },
+      "properties": {
+        "name": "Parque Lira",
+        "routes": ["Línea 2"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.185863,
+          19.404936
+        ]
+      },
+      "properties": {
+        "name": "Antonio Maceo",
+        "routes": ["Línea 2"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.183747,
+          19.407659
+        ]
+      },
+      "properties": {
+        "name": "De La Salle",
+        "routes": ["Línea 2"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.177583,
+          19.405587
+        ]
+      },
+      "properties": {
+        "name": "Patriotismo",
+        "routes": ["Línea 2"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.173973,
+          19.4044
+        ]
+      },
+      "properties": {
+        "name": "Escandón",
+        "routes": ["Línea 2"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.169625,
+          19.40355
+        ]
+      },
+      "properties": {
+        "name": "Nuevo León",
+        "routes": ["Línea 2"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.168147,
+          19.401443
+        ]
+      },
+      "properties": {
+        "name": "Viaducto",
+        "routes": ["Línea 2"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.164116,
+          19.396929
+        ]
+      },
+      "properties": {
+        "name": "Amores",
+        "routes": ["Línea 2"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.155688,
+          19.395869
+        ]
+      },
+      "properties": {
+        "name": "Etiopía",
+        "routes": ["Línea 2"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.151352,
+          19.395545
+        ]
+      },
+      "properties": {
+        "name": "Doctor Vértiz",
+        "routes": ["Línea 2"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.146416,
+          19.395209
+        ]
+      },
+      "properties": {
+        "name": "Centro SCOP",
+        "routes": ["Línea 2"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.142556,
+          19.394604
+        ]
+      },
+      "properties": {
+        "name": "Álamos",
+        "routes": ["Línea 2"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.139992,
+          19.39424
+        ]
+      },
+      "properties": {
+        "name": "Xola",
+        "routes": ["Línea 2"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.134842,
+          19.393481
+        ]
+      },
+      "properties": {
+        "name": "Las Américas",
+        "routes": ["Línea 2"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.129145,
+          19.397833
+        ]
+      },
+      "properties": {
+        "name": "Andrés Molina",
+        "routes": ["Línea 2"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.124103,
+          19.398055
+        ]
+      },
+      "properties": {
+        "name": "La Viga",
+        "routes": ["Línea 2"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.117022,
+          19.398268
+        ]
+      },
+      "properties": {
+        "name": "Coyuya",
+        "routes": ["Línea 2"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.109455,
+          19.397827
+        ]
+      },
+      "properties": {
+        "name": "Canela",
+        "routes": ["Línea 2"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.103526,
+          19.397195
+        ]
+      },
+      "properties": {
+        "name": "Tlacotal",
+        "routes": ["Línea 2"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.099477,
+          19.396869
+        ]
+      },
+      "properties": {
+        "name": "Goma",
+        "routes": ["Línea 2"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.096111,
+          19.396507
+        ]
+      },
+      "properties": {
+        "name": "Iztacalco",
+        "routes": ["Línea 2"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.090382,
+          19.393916
+        ]
+      },
+      "properties": {
+        "name": "UPIICSA",
+        "routes": ["Línea 2"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.087464,
+          19.391872
+        ]
+      },
+      "properties": {
+        "name": "El Rodeo",
+        "routes": ["Línea 2"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.083011,
+          19.388917
+        ]
+      },
+      "properties": {
+        "name": "Río Tecolutla",
+        "routes": ["Línea 2"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.080265,
+          19.387105
+        ]
+      },
+      "properties": {
+        "name": "Río Mayo",
+        "routes": ["Línea 2"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.07608,
+          19.384221
+        ]
+      },
+      "properties": {
+        "name": "Rojo Gomez",
+        "routes": ["Línea 2"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.074141,
+          19.387561
+        ]
+      },
+      "properties": {
+        "name": "Río Frío",
+        "routes": ["Línea 2"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.070882,
+          19.384201
+        ]
+      },
+      "properties": {
+        "name": "Del Moral",
+        "routes": ["Línea 2"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.065931,
+          19.383401
+        ]
+      },
+      "properties": {
+        "name": "Leyes de Reforma",
+        "routes": ["Línea 2"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.060695,
+          19.382844
+        ]
+      },
+      "properties": {
+        "name": "CCH Oriente",
+        "routes": ["Línea 2"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.059869,
+          19.38921
+        ]
+      },
+      "properties": {
+        "name": "Constitución de Apatzingán",
+        "routes": ["Línea 2"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.056017,
+          19.396456
+        ]
+      },
+      "properties": {
+        "name": "Canal de San Juan",
+        "routes": ["Línea 2"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.051307,
+          19.393724
+        ]
+      },
+      "properties": {
+        "name": "Nicolás Bravo",
+        "routes": ["Línea 2"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.051758,
+          19.384929
+        ]
+      },
+      "properties": {
+        "name": "General Antonio de León",
+        "routes": ["Línea 2"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.047413,
+          19.390708
+        ]
+      },
+      "properties": {
+        "name": "Tepalcates",
+        "routes": ["Línea 2"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.15601,
+          19.396456
+        ]
+      },
+      "properties": {
+        "name": "Etiopía-Plaza de la Transparencia",
+        "routes": ["Línea 3"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.155667,
+          19.40103
+        ]
+      },
+      "properties": {
+        "name": "Obrero Mundial",
+        "routes": ["Línea 3"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.155214,
+          19.406659
+        ]
+      },
+      "properties": {
+        "name": "Centro Médico",
+        "routes": ["Línea 3"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.154851,
+          19.411372
+        ]
+      },
+      "properties": {
+        "name": "Dr. Márquez",
+        "routes": ["Línea 3"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.154645,
+          19.41434
+        ]
+      },
+      "properties": {
+        "name": "Hospital General",
+        "routes": ["Línea 3"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.154168,
+          19.420378
+        ]
+      },
+      "properties": {
+        "name": "Jardín Pushkin",
+        "routes": ["Línea 3"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.153821,
+          19.42483
+        ]
+      },
+      "properties": {
+        "name": "Cuauhtémoc",
+        "routes": ["Línea 3"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.148822,
+          19.427724
+        ]
+      },
+      "properties": {
+        "name": "Balderas",
+        "routes": ["Línea 3"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.148082,
+          19.431389
+        ]
+      },
+      "properties": {
+        "name": "Juárez",
+        "routes": ["Línea 3"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.147191,
+          19.435939
+        ]
+      },
+      "properties": {
+        "name": "Hidalgo",
+        "routes": ["Línea 3"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.14865,
+          19.440229
+        ]
+      },
+      "properties": {
+        "name": "Mina",
+        "routes": ["Línea 3"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.147277,
+          19.445733
+        ]
+      },
+      "properties": {
+        "name": "Guerrero",
+        "routes": ["Línea 3"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.152126,
+          19.446137
+        ]
+      },
+      "properties": {
+        "name": "Buenavista",
+        "routes": ["Línea 3"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.145882,
+          19.451924
+        ]
+      },
+      "properties": {
+        "name": "Ricardo Flores Magón",
+        "routes": ["Línea 3"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.145045,
+          19.455849
+        ]
+      },
+      "properties": {
+        "name": "Tlatelolco",
+        "routes": ["Línea 3"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.14438,
+          19.458823
+        ]
+      },
+      "properties": {
+        "name": "Tolnahuac",
+        "routes": ["Línea 3"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.144171,
+          19.46337
+        ]
+      },
+      "properties": {
+        "name": "Circuito",
+        "routes": ["Línea 3"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.143769,
+          19.467675
+        ]
+      },
+      "properties": {
+        "name": "Hospital La Raza",
+        "routes": ["Línea 3"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.140834,
+          19.467573
+        ]
+      },
+      "properties": {
+        "name": "La Raza",
+        "routes": ["Línea 3"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.144831,
+          19.470638
+        ]
+      },
+      "properties": {
+        "name": "Héroe de Nacozari",
+        "routes": ["Línea 3"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.145979,
+          19.473673
+        ]
+      },
+      "properties": {
+        "name": "Cuitláhuac",
+        "routes": ["Línea 3"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.148167,
+          19.479327
+        ]
+      },
+      "properties": {
+        "name": "Coltongo",
+        "routes": ["Línea 3"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.149412,
+          19.482726
+        ]
+      },
+      "properties": {
+        "name": "Magdalena La Salinas",
+        "routes": ["Línea 3"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.151783,
+          19.489118
+        ]
+      },
+      "properties": {
+        "name": "Poniente 128",
+        "routes": ["Línea 3"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.153033,
+          19.492284
+        ]
+      },
+      "properties": {
+        "name": "Poniente 134",
+        "routes": ["Línea 3"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1543886,
+          19.4959431
+        ]
+      },
+      "properties": {
+        "name": "Montevideo",
+        "routes": ["Línea 3"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.15572,
+          19.499525
+        ]
+      },
+      "properties": {
+        "name": "Poniente 146",
+        "routes": ["Línea 3"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.157164,
+          19.503313
+        ]
+      },
+      "properties": {
+        "name": "La Patera",
+        "routes": ["Línea 3"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.159143,
+          19.508324
+        ]
+      },
+      "properties": {
+        "name": "Júpiter",
+        "routes": ["Línea 3"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.16182,
+          19.515134
+        ]
+      },
+      "properties": {
+        "name": "Tres Anegas",
+        "routes": ["Línea 3"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.16352,
+          19.519083
+        ]
+      },
+      "properties": {
+        "name": "Progreso Nacional",
+        "routes": ["Línea 3"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.165725,
+          19.522916
+        ]
+      },
+      "properties": {
+        "name": "San José de la Escalera",
+        "routes": ["Línea 3"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.170011,
+          19.529635
+        ]
+      },
+      "properties": {
+        "name": "Metrobus Tenayuca",
+        "routes": ["Línea 3"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.083666,
+          19.435307
+        ]
+      },
+      "properties": {
+        "name": "Terminal 1",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.07725,
+          19.421476
+        ]
+      },
+      "properties": {
+        "name": "Terminal 2",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.152271,
+          19.444863
+        ]
+      },
+      "properties": {
+        "name": "Buenavista",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.152416,
+          19.442594
+        ]
+      },
+      "properties": {
+        "name": "Delegación Cuauhtémoc",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.152454,
+          19.442136
+        ]
+      },
+      "properties": {
+        "name": "Delegación Cuauhtémoc",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.153269,
+          19.439025
+        ]
+      },
+      "properties": {
+        "name": "Puente de Alvarado",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.153457,
+          19.438641
+        ]
+      },
+      "properties": {
+        "name": "Puente de Alvarado",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.154138,
+          19.436804
+        ]
+      },
+      "properties": {
+        "name": "Plaza de la República",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.153982,
+          19.437128
+        ]
+      },
+      "properties": {
+        "name": "Plaza de la República",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.153532,
+          19.434159
+        ]
+      },
+      "properties": {
+        "name": "Glorieta de Colón",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.153371,
+          19.435014
+        ]
+      },
+      "properties": {
+        "name": "Glorieta de Colón",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.151011,
+          19.433364
+        ]
+      },
+      "properties": {
+        "name": "Expo Reforma",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.15063,
+          19.433106
+        ]
+      },
+      "properties": {
+        "name": "Expo Reforma",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.150217,
+          19.431589
+        ]
+      },
+      "properties": {
+        "name": "Vocacional 5",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.150952,
+          19.431756
+        ]
+      },
+      "properties": {
+        "name": "Vocacional 5",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.148387,
+          19.431305
+        ]
+      },
+      "properties": {
+        "name": "Juárez",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.147744,
+          19.43126
+        ]
+      },
+      "properties": {
+        "name": "Juárez",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.143549,
+          19.430607
+        ]
+      },
+      "properties": {
+        "name": "Plaza San Juan",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.144654,
+          19.430772
+        ]
+      },
+      "properties": {
+        "name": "Plaza San Juan",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.141929,
+          19.430334
+        ]
+      },
+      "properties": {
+        "name": "Eje Central",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.140797,
+          19.430304
+        ]
+      },
+      "properties": {
+        "name": "Eje Central",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.138538,
+          19.429874
+        ]
+      },
+      "properties": {
+        "name": "El Salvador",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.139418,
+          19.430071
+        ]
+      },
+      "properties": {
+        "name": "El Salvador",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.137009,
+          19.429616
+        ]
+      },
+      "properties": {
+        "name": "Isabel La Católica",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.136586,
+          19.429692
+        ]
+      },
+      "properties": {
+        "name": "Isabel La Católica",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.132407,
+          19.42914
+        ]
+      },
+      "properties": {
+        "name": "Museo de la Ciudad",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.132804,
+          19.428928
+        ]
+      },
+      "properties": {
+        "name": "Museo de la Ciudad",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.132782,
+          19.426661
+        ]
+      },
+      "properties": {
+        "name": "Pino Suárez",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.129918,
+          19.426155
+        ]
+      },
+      "properties": {
+        "name": "Las Cruces Sur",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.129269,
+          19.4287
+        ]
+      },
+      "properties": {
+        "name": "Las Cruces Norte",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.125524,
+          19.428341
+        ]
+      },
+      "properties": {
+        "name": "Circunvalación",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.12392,
+          19.423181
+        ]
+      },
+      "properties": {
+        "name": "Mercado de Sonora",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.123411,
+          19.423241
+        ]
+      },
+      "properties": {
+        "name": "Mercado de Sonora",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.11987,
+          19.425174
+        ]
+      },
+      "properties": {
+        "name": "Cecilio Robelo",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.119044,
+          19.425483
+        ]
+      },
+      "properties": {
+        "name": "Cecilio Robelo",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.116228,
+          19.427177
+        ]
+      },
+      "properties": {
+        "name": "Eduardo Molina",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.116153,
+          19.425098
+        ]
+      },
+      "properties": {
+        "name": "Hospital Balbuena",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.111979,
+          19.426894
+        ]
+      },
+      "properties": {
+        "name": "Moctezuma",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.115171,
+          19.430911
+        ]
+      },
+      "properties": {
+        "name": "San Lázaro",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.115428,
+          19.431116
+        ]
+      },
+      "properties": {
+        "name": "San Lázaro",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.115176,
+          19.435363
+        ]
+      },
+      "properties": {
+        "name": "Archivo General de la Nación",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.114618,
+          19.434968
+        ]
+      },
+      "properties": {
+        "name": "Archivo General de la Nación",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.119001,
+          19.435813
+        ]
+      },
+      "properties": {
+        "name": "Morelos",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.118245,
+          19.435788
+        ]
+      },
+      "properties": {
+        "name": "Morelos",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.121614,
+          19.436
+        ]
+      },
+      "properties": {
+        "name": "Ferrocarril de Cintura",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.120809,
+          19.436142
+        ]
+      },
+      "properties": {
+        "name": "Ferrocarril de Cintura",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.123413,
+          19.436357
+        ]
+      },
+      "properties": {
+        "name": "Mixcalco",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.124156,
+          19.436324
+        ]
+      },
+      "properties": {
+        "name": "Mixcalco",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.127622,
+          19.436769
+        ]
+      },
+      "properties": {
+        "name": "Teatro del Pueblo",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.127042,
+          19.43685
+        ]
+      },
+      "properties": {
+        "name": "Teatro del Pueblo",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.131999,
+          19.437406
+        ]
+      },
+      "properties": {
+        "name": "República de Argentina",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.131194,
+          19.437356
+        ]
+      },
+      "properties": {
+        "name": "República de Argentina",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.135896,
+          19.437965
+        ]
+      },
+      "properties": {
+        "name": "República de Chile",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.135025,
+          19.437884
+        ]
+      },
+      "properties": {
+        "name": "República de Chile",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.139973,
+          19.438636
+        ]
+      },
+      "properties": {
+        "name": "Teatro Blanquita",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.139085,
+          19.438428
+        ]
+      },
+      "properties": {
+        "name": "Teatro Blanquita",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.141717,
+          19.436405
+        ]
+      },
+      "properties": {
+        "name": "Bellas Artes",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.141821,
+          19.436407
+        ]
+      },
+      "properties": {
+        "name": "Bellas Artes",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.14615,
+          19.437298
+        ]
+      },
+      "properties": {
+        "name": "Hidalgo",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.146212,
+          19.43728
+        ]
+      },
+      "properties": {
+        "name": "Hidalgo",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.150783,
+          19.438274
+        ]
+      },
+      "properties": {
+        "name": "Museo San Carlos",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.150603,
+          19.438226
+        ]
+      },
+      "properties": {
+        "name": "Museo San Carlos",
+        "routes": ["Línea 4"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.086123,
+          19.506726
+        ]
+      },
+      "properties": {
+        "name": "Río de los Remedios",
+        "routes": ["Línea 5"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.088697,
+          19.500617
+        ]
+      },
+      "properties": {
+        "name": "314. Memorial New's Divine",
+        "routes": ["Línea 5"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.090124,
+          19.497169
+        ]
+      },
+      "properties": {
+        "name": "5 de Mayo",
+        "routes": ["Línea 5"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.092249,
+          19.492193
+        ]
+      },
+      "properties": {
+        "name": "Vasco de Quiroga",
+        "routes": ["Línea 5"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.094169,
+          19.487601
+        ]
+      },
+      "properties": {
+        "name": "El Coyol",
+        "routes": ["Línea 5"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.095778,
+          19.48395
+        ]
+      },
+      "properties": {
+        "name": "Preparatoria 3",
+        "routes": ["Línea 5"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0974141,
+          19.4801558
+        ]
+      },
+      "properties": {
+        "name": "San Juan de Aragón",
+        "routes": ["Línea 5"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.099137,
+          19.47606
+        ]
+      },
+      "properties": {
+        "name": "Río Guadalupe",
+        "routes": ["Línea 5"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.101239,
+          19.471003
+        ]
+      },
+      "properties": {
+        "name": "Talismán",
+        "routes": ["Línea 5"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.102752,
+          19.467472
+        ]
+      },
+      "properties": {
+        "name": "Victoria",
+        "routes": ["Línea 5"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.105091,
+          19.46204
+        ]
+      },
+      "properties": {
+        "name": "Oriente 101",
+        "routes": ["Línea 5"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.106797,
+          19.457781
+        ]
+      },
+      "properties": {
+        "name": "Santa Coleta",
+        "routes": ["Línea 5"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.108406,
+          19.453634
+        ]
+      },
+      "properties": {
+        "name": "Río Consulado",
+        "routes": ["Línea 5"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.110456,
+          19.449466
+        ]
+      },
+      "properties": {
+        "name": "Canal del Norte",
+        "routes": ["Línea 5"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.112097,
+          19.444863
+        ]
+      },
+      "properties": {
+        "name": "Deportivo Eduardo Molina",
+        "routes": ["Línea 5"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.113556,
+          19.441059
+        ]
+      },
+      "properties": {
+        "name": "Mercado Morelos",
+        "routes": ["Línea 5"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.114398,
+          19.437209
+        ]
+      },
+      "properties": {
+        "name": "Archivo General",
+        "routes": ["Línea 5"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.115176,
+          19.432368
+        ]
+      },
+      "properties": {
+        "name": "San Lázaro",
+        "routes": ["Línea 5"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0725496,
+	  19.4769266
+        ]
+      },
+      "properties": {
+        "name": "Volcán de Fuego",
+        "routes": ["Línea 6"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1326282,
+          19.4904873
+        ]
+      },
+      "properties": {
+        "name": "Instituto Politécnico Nacional",
+        "routes": ["Línea 6"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0756348,
+          19.4668862
+        ]
+      },
+      "properties": {
+        "name": "482",
+        "routes": ["Línea 6"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0864354,
+          19.4709923
+         ]
+      },
+      "properties": {
+        "name": "Pueblo San Juan de Aragón",
+        "routes": ["Línea 6"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1122608,
+          19.4839135
+        ]
+      },
+      "properties": {
+        "name": "Delegación Gustavo A. Madero",
+        "routes": ["Línea 6"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0716795,
+          19.4689438  
+        ]
+      },
+      "properties": {
+        "name": "414",
+        "routes": ["Línea 6"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1650559,
+          19.4975068
+        ]
+      },
+      "properties": {
+        "name": "Norte 59",
+        "routes": ["Línea 6"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1057751,
+          19.4821391
+        ]
+      },
+      "properties": {
+        "name": "Martín Carrera",
+        "routes": ["Línea 6"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0647986,
+          19.4693033
+        ]
+      },
+      "properties": {
+        "name": "Colegio de Bachilleres 9",
+        "routes": ["Línea 6"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0794797,
+          19.4725078
+        ]
+      },
+      "properties": {
+        "name": "416 Poniente",
+        "routes": ["Línea 6"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1925664,
+          19.5108712 
+        ]
+      },
+      "properties": {
+        "name": "De las Culturas",
+        "routes": ["Línea 6"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1180756,
+          19.4867918
+        ]
+      },
+      "properties": {
+        "name": "De los Misterios",
+        "routes": ["Línea 6"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.059022,
+          19.464556
+        ]
+      },
+      "properties": {
+        "name": "Villa de Aragón",
+        "routes": ["Línea 6"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.128021,
+          19.488744 
+        ]
+      },
+      "properties": {
+        "name": "Riobamba",
+        "routes": ["Línea 6"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.183704,
+          19.50382 
+        ]
+      },
+      "properties": {
+        "name": "UAM Azcapotzalco",
+        "routes": ["Línea 6"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1481352,
+          19.4937606 
+        ]
+      },
+      "properties": {
+        "name": "Lindavista - Vallejo",
+        "routes": ["Línea 6"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1976445,
+          19.5115441 
+        ]
+      },
+      "properties": {
+        "name": "Colegio de Bachilleres 1",
+        "routes": ["Línea 6"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1997704,
+          19.5069109 
+        ]
+      },
+      "properties": {
+        "name": "El Rosario",
+        "routes": ["Línea 6"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0929715,
+          19.4770341 
+        ]
+      },
+      "properties": {
+        "name": "Gran Canal",
+        "routes": ["Línea 6"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0754912,
+          19.4799123  
+        ]
+      },
+      "properties": {
+        "name": "Ampl. Providencia",
+        "routes": ["Línea 6"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1015103,
+          19.4804954 
+        ] 
+      },
+      "properties": {
+        "name": "Hospital General La Villa",
+        "routes": ["Línea 6"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0807695, 
+          19.4671539
+        ]
+      },
+      "properties": {
+        "name": "Loreto Fabela",
+        "routes": ["Línea 6"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.119792,
+          19.4854572 
+        ]
+      },
+      "properties": {
+        "name": "La Villa",
+        "routes": ["Línea 6"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0780645,
+          19.4782299 
+        ]
+      },
+      "properties": {
+        "name": "Deportivo los Galeana",
+        "routes": ["Línea 6"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1591646,
+          19.4961707 
+        ]
+      },
+      "properties": {
+        "name": "Norte 45",
+        "routes": ["Línea 6"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0687822,
+          19.4729632          
+        ]
+      },
+      "properties": {
+        "name": "La Pradera",
+        "routes": ["Línea 6"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1458365,
+          19.4932092 
+        ]
+      },
+      "properties": {
+        "name": "Instituto del Petróleo",
+        "routes": ["Línea 6"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.188945,
+          19.5049069 
+        ]
+      },
+      "properties": {
+        "name": "Ferrocarriles Nacionales",
+        "routes": ["Línea 6"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0887327,
+          19.4747834 
+        ]
+      },
+      "properties": {
+        "name": "Casas Alemán",
+        "routes": ["Línea 6"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0710886,
+          19.4710326 
+        ]
+      },
+      "properties": {
+        "name": "416 Oriente",
+        "routes": ["Línea 6"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1150186,
+          19.4879561 
+        ]
+      },
+      "properties": {
+        "name": "Hospital Infantil La Villa",
+        "routes": ["Línea 6"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1386597,
+          19.4919017 
+        ]
+      },
+      "properties": {
+        "name": "San Bartolo",
+        "routes": ["Línea 6"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1793191,
+          19.5026401 
+        ]
+      },
+      "properties": {
+        "name": "Tecnoparque",
+        "routes": ["Línea 6"]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.062130,
+	  19.467302 
+        ]
+      },
+      "properties": {
+        "name": "Francisco Morazán",
+        "routes": ["Línea 6"]
+      }
+    }
+  ]
+}

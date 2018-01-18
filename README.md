@@ -54,6 +54,7 @@ To review the technical part visit [scripts](scripts/README.md)
 ## Data Licenses
 
 * [Libreuso](https://datos.gob.mx/libreusomx) compatible with [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+* [OpenDataLicence (ODbL)](http://opendefinition.org/licenses/odc-odbl/)
 
 ## Software Licences
 
