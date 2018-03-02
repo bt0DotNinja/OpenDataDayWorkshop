@@ -34,7 +34,7 @@ you can take this workshop also it is free. :smile:
 
 ## Workshop
 
-To follow this workshop (easy to follow) step-by-step visit [Azcapotzalco.ipynb](Azcapotzalco.ipynb) 
+To follow this workshop (easy to follow) step-by-step visit [GeoData.ipynb](GeoData.ipynb) 
 
 To review the technical part visit [scripts](scripts/README.md)
 
